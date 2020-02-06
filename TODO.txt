@@ -1,0 +1,38 @@
+Brainstorm
+==========
+set up node skeleton
+	initialize app
+	add packages
+	make main app file
+make new heroku project
+redirect pauladams.site to heroku
+make home page
+	content
+	route
+make resume page
+	display
+	download
+		set up public folder
+	route(s)
+make contact page
+	content
+		background
+		personal
+		skills
+		photo
+	route
+make about page
+	content
+	route
+fill in readme
+
+Committed
+=========
+
+
+Planned commits
+===============
+
+
+Wish list
+=========
