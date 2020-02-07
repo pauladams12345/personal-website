@@ -13,4 +13,10 @@ router.get('/resume', async function(req, res, next) {
 	res.render('resume', context);
 });
 
+router.get('/contact', async function(req, res, next) {
+	context = {};
+	context.css = ['main.css'];
+	res.render('contact', context);
+});
+
 module.exports = router;

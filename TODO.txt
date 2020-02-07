@@ -30,12 +30,12 @@ Committed
 =========
 Set up skeleton app and navbar
 Create styles, complete homepage
+Complete resume page
+Complete contact page
 
 
 Planned commits
 ===============
-Create resume page
-Create about page
 Create about page
 
 Wish list
