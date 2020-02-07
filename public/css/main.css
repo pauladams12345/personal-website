@@ -1,0 +1,36 @@
+body {
+	display: flex;
+	background-color: #202427;
+}
+
+a {
+	color: #4b9520;
+}
+
+a:hover {
+	color: #706A62;
+}
+.nav-link {
+	color: #FFFFFF !important;
+}
+
+.nav-link:hover {
+	color: #CCCCCC !important;
+}
+
+#nav-background {
+	background-color: #809987;
+}
+
+.content {
+	background-color: #EBEDE5;
+	border-radius: 12px;
+}
+
+.fab {
+	color: #706A62;
+}
+
+.fab:hover {
+	color: #4b9520;
+}
