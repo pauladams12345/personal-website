@@ -19,4 +19,10 @@ router.get('/contact', async function(req, res, next) {
 	res.render('contact', context);
 });
 
+router.get('/about', async function(req, res, next) {
+	context = {};
+	context.css = ['main.css'];
+	res.render('about', context);
+});
+
 module.exports = router;

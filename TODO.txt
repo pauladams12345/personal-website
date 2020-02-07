@@ -33,7 +33,6 @@ Create styles, complete homepage
 Complete resume page
 Complete contact page
 
-
 Planned commits
 ===============
 Create about page
