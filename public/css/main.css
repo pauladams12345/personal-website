@@ -34,3 +34,14 @@ a:hover {
 .fab:hover {
 	color: #4b9520;
 }
+
+.btn-primary {
+	background-color: #4b9520;	
+	border-color: #4b9520;	
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active {
+	background-color: #706A62;
+	border-color: #706A62;
+}
+090A0B

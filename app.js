@@ -22,7 +22,7 @@ app.use(require('./routes/index.js'));
 // Handle 404 error
 app.use(function(req,res){
   res.status(404);
-  res.render('404');
+  res.render('404', {css: ['main.css']});
 });
 
 // Handle 500 error

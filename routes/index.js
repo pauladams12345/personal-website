@@ -7,4 +7,10 @@ router.get('/', async function(req, res, next) {
 	res.render('homepage', context);
 });
 
+router.get('/resume', async function(req, res, next) {
+	context = {};
+	context.css = ['main.css'];
+	res.render('resume', context);
+});
+
 module.exports = router;
